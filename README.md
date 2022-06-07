@@ -1,7 +1,7 @@
 ## Hi I'm Beatriz Mantovani 🍒☁
 
 - ☕🐍 I’m currently working with python (automation and basic data science)
-- 💻🔬 I’m currently learning data science
+- 💻🔬 I’m currently learning data science and machine learning
 - 🎓✨ I’m computer science student
 
 <br>
